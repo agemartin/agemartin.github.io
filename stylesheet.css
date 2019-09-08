@@ -1,0 +1,116 @@
+@font-face {font-family: "Krungthep";
+  src: url("Krungthep.ttf") format("truetype")
+}
+
+a.red
+{
+ color: #ff0000 
+}
+
+span.answeringname
+{
+  font-family:courier;
+   font-weight: bold;
+}
+
+p.frage
+{
+  font-family:courier;
+  font-size:20px;
+ font-weight: bold;
+ color: 	#303030
+   
+}
+
+p.antwort
+{
+  font-family:courier;
+ font-style: normal;
+  font-weight: normal;
+ 
+}
+p.fragecz
+{
+ font-weight: bold;
+font-family:courier;
+ color: 	#303030
+}
+
+p.antwortcz
+{
+ font-style: normal;
+  font-family:courier
+ 
+}
+
+* {
+  color: #000000;
+  font-family: Krungthep;
+}
+
+body {
+  background: #FFFFFF
+}
+
+a {
+  text-decoration: none; 
+  color: #000000
+}
+
+a:visited {
+  color: #000000
+}
+
+h1 {
+  text-align: center;
+}
+
+
+
+h1.whereami {
+  color: #ff0000 
+}
+
+.picture {
+  height: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.content {
+  font-style: normal;
+  font-weight: normal;
+  width: 80%;
+  padding: 5%;
+  text-align: center;
+}
+
+.section {
+  padding: 20px;
+
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 90%;
+  padding: 5%;
+  padding-bottom: 2%;
+  text-align: right;
+}
+
+ul
+{
+  align: center;
+}
+
+li
+{
+  align: center;
+}
+
+.list 
+{
+  
+}
